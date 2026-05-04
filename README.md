@@ -31,7 +31,7 @@
   <br>
 </samp>
 <h3>📊 Stats</h3>
-  <img align="center" alt="wIceh's GitHub Stats" style="margin-top:20px;" height="170px" src="https://github-readme-stats.vercel.app/api?username=yesIce&show_icons=true&theme=github_dark">
+  <img align="center" alt="wIceh's GitHub Stats" style="margin-top:20px;" height="170px" src="https://stats.wiceh.dev/api?username=yesIce&show_icons=true&theme=github_dark">
   <br><br>
-  <img align="center" alt="wIceh's Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesIce&theme=github_dark&layout=compact">  
+  <img align="center" alt="wIceh's Top Langs" height="170px" src="https://stats.wiceh.dev/api/top-langs/?username=yesIce&theme=github_dark&layout=compact">  
 </div>
